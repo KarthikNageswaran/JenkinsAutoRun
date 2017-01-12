@@ -14,7 +14,7 @@ import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
 
 public class QualitativeFactor {
-	JenkinsAutoRun.util.Xls_Reader reader=new JenkinsAutoRun.util.Xls_Reader("E:\\SeleniumSample\\JenkinsAutoRun\\QualitativeFactor.xlsx");
+	JenkinsAutoRun.util.Xls_Reader reader=new JenkinsAutoRun.util.Xls_Reader("E:\\SeleniumSample\\JenkinsAutoRun\\TestData\\QualitativeFactor.xlsx");
 	String testName="QualitativeFactor";
 	ExtentReports ex;
 	ExtentTest test;
