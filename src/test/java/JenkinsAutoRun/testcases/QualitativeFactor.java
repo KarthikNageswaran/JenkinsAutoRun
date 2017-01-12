@@ -9,10 +9,6 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import com.AutomationTesting.Keywords;
-import com.AutomationTesting.util.DataUtil;
-import com.AutomationTesting.util.ExtentManager;
-import com.AutomationTesting.util.Xls_Reader;
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
